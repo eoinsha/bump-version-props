@@ -1,0 +1,17 @@
+logs
+*.log
+pids
+*.pid
+*.seed
+lib-cov
+coverage
+node_modules
+.idea
+*~
+.build
+.pt
+*.swp
+docs
+.DS_Store
+.nyc_output/
+hub-user-user.iml
